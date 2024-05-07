@@ -1,1 +1,1 @@
-# day-04
+# day-04 (JSON of resume and for loop)
